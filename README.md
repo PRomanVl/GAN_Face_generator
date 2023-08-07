@@ -11,3 +11,4 @@
 ![image](https://github.com/PRomanVl/GAN_Face_generator/assets/96573887/af9f72a4-e5e3-4cad-b7c2-629da67dee31)
 
 
+Ссылка на колаб https://drive.google.com/file/d/1BhvCbgBugM-wAz53PX7frRitizlNsulT/view?usp=drive_link
